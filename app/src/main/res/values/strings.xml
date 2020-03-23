@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Redux Counter</string>
+    <string name="increase">Increment</string>
+    <string name="decrease">Decrement</string>
+</resources>

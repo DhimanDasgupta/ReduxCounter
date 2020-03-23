@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/pos"
+        android:icon="@drawable/ic_inc"
+        android:title="@string/increase"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/neg"
+        android:icon="@drawable/ic_dec"
+        android:title="@string/decrease"
+        app:showAsAction="ifRoom"/>
+</menu>
